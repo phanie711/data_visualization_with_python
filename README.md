@@ -4,3 +4,26 @@
 - https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL3Y0L0RWMDEwMUVOLUNoZWF0U2hlZXQtMi5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MjE2NDY5OTB9.5A7f5zsXnsmtd_MU6Tf4CfzZOeeFBSaeXdY6ZN3vNnw
   
 - https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL3Y0L0RWMDEwMUVOLUNoZWF0U2hlZXQtMy5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MTE0NTk4MjR9.Om48_jgzWvg7Xspbt6xhKkzuWmiEZpBW855g8n0RQoA
+##RESSOURCES PLOTLY
+- https://pyviz.org/dashboarding/
+- https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map
+- https://plotly.com/python/getting-started/
+- https://plotly.com/python/graph-objects/
+- https://plotly.com/python/plotly-express/
+- https://images.plot.ly/plotly-documentation/images/plotly_js_cheat_sheet.pdf
+- https://developer.ibm.com/exchanges/data/
+
+- ## RESSOURCES DASH
+- https://dash.plotly.com/
+- https://dash.plotly.com/dash-core-components
+- https://dash.plotly.com/dash-html-components
+- https://community.plotly.com/c/python/25
+- https://medium.com/plotly/tagged/dash
+https://realpython.com/primer-on-python-decorators/
+https://www.python.org/dev/peps/pep-0318/#current-syntax
+https://dash.plotly.com/basic-callbacks
+https://dash-gallery.plotly.host/Portal/
+https://plotly.com/dash-community-components/
+https://author-ide.skills.network/render?
+
+token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL3Y0L0RWMDEwMUVOLUNoZWF0U2hlZXQtNC5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MjAwODA5NDN9.XRvmqf-M3xWoZecpC7xwx3VkeQKOU8uWKKBy1shjnIc
